@@ -101,6 +101,13 @@ p {
   display: flex;
   align-items: center;
   gap: 1.2rem;
+}
+
+.author__avatar {
+  width: 3.2rem;
+}
+
+.author__name {
   font-size: 1.4rem;
   font-weight: 800;
 }
